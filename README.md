@@ -4,7 +4,7 @@
 
 - I'm currently a **Computer Science** student at **New Mexico State University** graduating **Spring 2023**.
 - I'm interested in **Software Engineering** and **Product Management**.
-- When I'm not coding, I love :muscle: **Powerlifting** and :open_book: **Reading**.
+- When I'm not coding, I love :muscle: **Powerlifting** and :mountain_snow: **Hiking**.
 
 ---
 
